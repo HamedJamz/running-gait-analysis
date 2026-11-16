@@ -1,0 +1,9 @@
+# raw data (download with scripts/download_data.py)
+data/raw/
+results/cache/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+.DS_Store
